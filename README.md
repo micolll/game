@@ -2,12 +2,12 @@
 C++ car game for academic purpose.
 
 ## Getting Started
-Change into this repo
+Accedi alla repository
 ```
 cd car_game
 ```
 
-Run & Have Fun!!
+Gioca e Divertiti!
 ```
 ./run.sh
 ```
